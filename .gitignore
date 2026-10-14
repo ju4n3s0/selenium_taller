@@ -4,3 +4,6 @@ app/build/
 app/target/
 .idea/
 *.class
+.metals/
+.vscode/
+app/bin/
