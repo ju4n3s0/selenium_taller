@@ -7,3 +7,6 @@ app/target/
 .metals/
 .vscode/
 app/bin/
+.metals/
+.vscode/
+app/bin/
